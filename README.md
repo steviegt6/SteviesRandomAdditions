@@ -1,2 +1,2 @@
 # SteviesRandomAdditions
- Extremely funny and homorous mod.
+ Extremely funny and humorous mod.
