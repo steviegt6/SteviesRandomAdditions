@@ -8,6 +8,6 @@ import net.fabricmc.api.Environment;
 public class SteviesRandomAdditionsClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
-        
+
     }
 }
