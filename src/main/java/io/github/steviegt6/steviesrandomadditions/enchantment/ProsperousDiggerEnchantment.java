@@ -32,6 +32,6 @@ public class ProsperousDiggerEnchantment extends Enchantment {
 
     @Override
     public boolean canAccept(Enchantment other) {
-        return other != Enchantments.MENDING;
+        return other != Enchantments.MENDING && other != Enchantments.SILK_TOUCH;
     }
 }
